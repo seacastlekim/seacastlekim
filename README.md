@@ -1,5 +1,7 @@
-<h1 align="center">Hi there👋, it's <color=#ff0000>seacastlekim!</color></h1>
-<h3 align="center">A impressive IT service manager from South Korea.</h3>
+<h1 align="center">Ding-dong, it's <color=#ff0000>seacastlekim!</color></h1>
+<h3 align="center">A impressive IT service manager from South Korea</h3>
+
+![BayleyWweGIF](https://github.com/seacastlekim/seacastlekim/assets/161290824/6ce1d19e-29c7-46c5-8dc2-7dd46aaabfb3)
 
 - 🌱 currently learning : **IT service manager school: Road to PM** on SeSAC Gangdong campus.
 - 📫 How to reach me : **seacastlekim@gmail.com**
