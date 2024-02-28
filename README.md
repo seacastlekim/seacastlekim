@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, IT's <color=#ff0000>seacastlekim!</color></h1>
+<h1 align="center">Hi there👋, it's <color=#ff0000>seacastlekim!</color></h1>
 <h3 align="center">A impressive IT service manager from South Korea.</h3>
 
 - 🌱 currently learning : **IT service manager school: Road to PM** on SeSAC Gangdong campus
